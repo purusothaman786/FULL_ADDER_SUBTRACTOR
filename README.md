@@ -87,6 +87,7 @@ to the Truth Table and then simulate the Output Waveform.
 Program to design a half subtractor and full subtractor circuit and verify its truth table in quartus using Verilog programming. 
 
 Developed by:Purusothaman K
+
 RegisterNumber:212224110046
 
 */
